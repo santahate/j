@@ -665,7 +665,7 @@ i.far {
 	display: inline-block;
 }
 
-.key:active,
+.key:active
 {
 	color: #fff;
 	background-color: black;
